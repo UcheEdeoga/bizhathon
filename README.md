@@ -1,4 +1,4 @@
-
+The aim of this project is to eradicate the sale and distribution of fake drugs using the power of the blockchain. Our goal is to prevent drug piracy by utilizing the blockchain to store relevant information about a drug, its manufacturers and its authenticity.
 
 
 Ndu is a decentralized platform for pharmaceutical companies to store serials and digital keys for each batch of their products on the blockchain.
