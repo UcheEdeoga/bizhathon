@@ -7,4 +7,7 @@ It also allows for validating the authenticity of drugs and products purchased f
 A licensed company subsribes with an ethereum account address and is given access to the features of the protocol
 
 features include:
-1. access to a decentralized database for  data storage 
+1. access to a decentralized database for  data storage
+2. ability to store the hash of sensitive data on the blockchain
+3. registered users will have the ability to put up proposals for voting by the community
+ 
